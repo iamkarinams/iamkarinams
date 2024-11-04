@@ -2,6 +2,7 @@
 - Desenvolvedora Back-end
 <div>
    <img align="center" alt="Ka-pic" height="150" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api?username=iamkarinams&rank_icon=github&title_color=E41D89&show_icons=true&icon_color=E41D89&border_color=FA37BD&layout=compact">
+  <img align="right" alt="Ka-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif">
   </div>
   
   ##
@@ -15,7 +16,6 @@
   <img align="center" alt="Ka-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ka-Angular" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   
-  <img align="right" alt="Ka-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif">
   
 </div>
   
